@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm currently an undergraduate student major in computer science in Wuhan University
+- I'm exprected to start graduate study in Zhejiang University (ZJU3DV Lab) in 2024 (Research Interest: Computer Vision, 3D Vision, Robotics, SLAM)
+- I'am looking for collaboration on fields mentioned above
+
 <!--
 **shijialew/shijialew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
