@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently an undergraduate student major in computer science in Wuhan University
-- I'm exprected to start graduate study in Zhejiang University (ZJU3DV Lab) in 2024
+- I'm expected to start graduate study in Zhejiang University in 2024
 
 <!--
 **shijialew/shijialew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
