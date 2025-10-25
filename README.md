@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm currently an undergraduate student major in computer science in Wuhan University
-- I'm expected to start graduate study in Zhejiang University in 2024
+- I'm currently a master student in CAD&CG, Zhejiang University
+- Research Interest: 3D Computer Vision, Generative Models
 
 <!--
 **shijialew/shijialew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
