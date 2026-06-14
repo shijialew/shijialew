@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jiale Shi 👋
 
-- I'm currently a master student in CAD&CG, Zhejiang University
-- Research Interest: 3D Computer Vision, Generative Models
+I'm a graduate student at Zhejiang University, currently focusing on Large Language Models and AI Agents.
+Previously, I worked on 3D Vision, including 3D reconstruction and generation.
 
+My current research interests lie at the intersection of LLMs, Agents, Reinforcement Learning, and real-world AI applications. I am particularly interested in building systems that can reason, use tools, interact with environments, and solve complex tasks beyond static text generation.
+
+### 📫 Contact
+Email: shijialew@gmail.com
 <!--
 **shijialew/shijialew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
